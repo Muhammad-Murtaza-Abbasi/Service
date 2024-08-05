@@ -1,0 +1,184 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.firstimg img {
+    /* background-image: url(https://www.servis.pk/cdn/shop/files/ndure-banner-dimensions.png?v=1721826383); */
+    width: 100%;
+}
+
+.nav {
+    position: fixed;
+    left: 5%;
+}
+
+/* @media (max-widht:600) {
+    .logo img {
+        width: 250px;
+        height: 80px;
+    }
+    
+    .nav {
+        position: fixed;
+        left: 5%;
+    }
+    .logo {
+        margin: auto;
+        padding-top: 10px;
+        padding-left: 6%;
+    }
+
+    
+.link {
+    padding-top: 8px;
+    text-align: center;
+    font-size: 17px;
+    word-spacing: 10px;
+}
+a {
+    color: black;
+    text-decoration-line: none;
+}
+    
+
+} */
+
+
+
+
+
+.logo {
+    padding-top: 10px;
+    padding-left: 6%;
+}
+
+.logo img {
+    width: 250px;
+    height: 80px;
+}
+
+
+
+.link {
+    padding-top: 8px;
+    text-align: center;
+    font-size: 17px;
+    word-spacing: 10px;
+}
+a {
+    color: black;
+    text-decoration-line: none;
+}
+
+
+/* .left2 input{
+    border-color: transparent;
+    border-bottom-color: black;
+    outline: none;
+    color: transparent;
+} */
+
+.secondimg img {
+    /* background-image: url(https://www.servis.pk/cdn/shop/files/b2-3.png?v=1716975065); */
+    /* background-size: cover; */
+    width: 100%;
+    
+}
+
+.bgcolor {
+    padding-top: 50px;
+}
+
+.toper {
+    text-align: center;
+    padding: 19px;
+    margin-top: 6%;
+}
+
+.toper h2 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-size: 13px;
+    color: gray;
+}
+
+.toper input {
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid;
+    width: 40%;
+    height: 40px;
+    font-size: 20px;
+}
+.mainbox {
+    width: 80%;
+    margin-top: 10%;
+    margin: auto;
+    /* padding-bottom: 150px; */
+}
+
+.one {
+    display: inline-block;
+    padding-left: 5%;
+}
+
+.two {
+    display: inline-block;
+    padding-left: 7%;
+}
+
+.three {
+    display: inline-block;
+    padding-left: 3%;
+}
+
+.four {
+    display: inline-block;
+    padding-left: 7%;
+}
+
+p {
+    color: gray;
+    font-size: 11px;
+}
+
+.last {
+    float: inline-end;
+    padding-top: 10px;
+    /* margin-top: 8%;
+    padding-right: 7%; */
+}
+
+.nav2 {
+    background-color: black;
+    /* color: white; */
+    width: 100%;
+    margin-top: 50px;
+}
+
+p.size {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    /* border: black solid 1px; */
+    /* border-bottom-color: black; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
